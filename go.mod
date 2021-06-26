@@ -1,1 +1,3 @@
-module "learngowithtests"
+module learngowithtests
+
+go 1.16
